@@ -9,3 +9,7 @@
   border-radius: 5px;
   background-color: transparent;
 }
+
+.btn:active {
+  background-color: rgb(107, 180, 232);
+}
